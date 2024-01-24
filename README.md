@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ArthurPouzCS/ArthurPouzCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,9 @@ Here are some ideas to get you started:
 
 # 👋 Hello World!
 
-I'm Arhtur, an AI Engineer with a passion for leveraging artificial intelligence to address climate change and create positive impact. My mission is to contribute to a greener, more sustainable future through innovative technology solutions.
+I'm Arthur, 
+an AI Engineer with a passion for leveraging artificial intelligence to address climate change and create positive impact. 
+My mission is to contribute to a greener, more sustainable future through innovative technology solutions.
 
 ## 💼 Professional Background
 
@@ -39,6 +39,6 @@ I'm always open to collaborating on projects that align with my passion for clim
 
 ## ⚡ Fun Fact
 
-Did you know? [💍 Penguins find love by giving special rocks to their chosen mates, forming lifelong bonds! 🐧💕]
+Did you know? 💍 Penguins find love by giving special rocks to their chosen mates, forming lifelong bonds! 🐧💕
 
 Thanks for stopping by! Let's make a positive impact together. 🚀
